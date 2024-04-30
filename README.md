@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Back-end and APP developer;
+- Database maintenance;
+- C#, Java, HTML, SQL; 
+- Currently Studying at a Vocational Course: Computer Systems Programming Technician and Management;
+
