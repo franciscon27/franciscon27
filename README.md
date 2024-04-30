@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--I'm Francisco Nobre;
+I'm Francisco Nobre, a student curious in the area of Computer Science;
 - Back-end and APP developer;
 - Database maintenance;
 - C#, Java, HTML, SQL; 
