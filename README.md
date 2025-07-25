@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there 👋
+    
 
 <!--
 **franciscon27/franciscon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Francisco Nobre, a student curious in the area of Computer Science;
+- Back-end and APP developer;
+- Database maintenance;
+- C#, JavaScript, HTML, SQL;
+- LLMs
+- Level 4 Certificate at Vocational Course: Computer Systems Programming Technician and Management;
