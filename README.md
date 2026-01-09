@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Francisco Nobre, a student curious in the area of Computer Science;
 - Back-end and APP developer;
 - Database maintenance;
-- C#, JavaScript, HTML, SQL;
+- Python, C#, JavaScript, HTML, SQL;
 - LLMs
 - Level 4 Certificate at Vocational Course: Computer Systems Programming Technician and Management;
