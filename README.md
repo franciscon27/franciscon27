@@ -37,17 +37,7 @@ Robotics & AI student at **ENIDH, Lisbon**. Holder of a Level 4 diploma in Infor
 
 ---
 
-## GitHub stats
 
-<div align="center">
-
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscon27&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscon27&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
   <i>Open to internship opportunities in Robotics, AI, Programming and Data Systems.</i>
