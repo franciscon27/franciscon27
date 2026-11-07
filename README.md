@@ -13,7 +13,6 @@
 Robotics & AI student at **ENIDH, Lisbon**. Holder of a Level 4 diploma in Information Systems Management and Programming. Passionate about automation, LLM workflows, and building things that actually work.
 
 - 🎓 Currently studying Robotics & Artificial Intelligence
-- 🔭 Working on an autonomous submarine project
 - 🤖 Interested in embedded systems, AI pipelines and self-hosted infrastructure
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/franciscobcnobre)
 - 💼 Open to internships in Robotics, AI, Programming and Data Systems
